@@ -39,3 +39,39 @@ os.rmdir('novaPasta')
 """
 os.rename('aulas/mkdirteste/intro.txt', 'aulas/mkdirteste/teste.txt')
 """
+
+# open() é usado para abrir arquivos txt
+"""
+arquivo = open('aulas/receita.txt')
+arquivo2 = open('aulas/receitas/brigadeiro.txt')
+"""
+
+# .read() é usado com o open para ler o arquivo txt
+"""
+print(arquivo2.read())
+"""
+
+# .closed() é usado para fechar o arquivo txt
+"""
+arquivo2.close()
+print(arquivo2.closed)
+"""
+
+# Forma pythoniana: with open() as (apelido): {código}
+"""
+with open('./aulas/receitas/brigadeiro.txt') as arquivo:
+    print(arquivo.read())
+    print(arquivo.closed)
+print(arquivo.closed)
+"""
+
+# .write() permite escrever no documento txt, precisa colocar 'w' no open
+# 'w' é de write: reescreve sobre o documento
+# 'r' é de read: permite somente leitura
+# 'a' é de append: permite escrever na última linha, mantendo o arquivo
+"""
+with open('./aulas/receitas/brigadeiro.txt', 'a') as arquivo:
+    arquivo.write('JKjjduuuu')
+    arquivo.closed
+print(arquivo.closed)
+"""
