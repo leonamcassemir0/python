@@ -1,0 +1,1 @@
+{"status":{"value":"-1","reference":"500","code":null,"description":"Não foi possível realizar solicitação.","detail":null},"data":{"timestamp":1696349686888,"path":"/services/mc-extratos/api/v2/estabelecimento/7572875/extratos/exportacao/download","status":500,"error":"Internal Server Error","message":"","requestId":"12bb84f6-810743"}}
