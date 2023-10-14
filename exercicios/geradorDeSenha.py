@@ -1,3 +1,5 @@
+// Linha usada paralembrar branch
+
 chave = input('Digite a base da senha: ')
 senha = ''
 
