@@ -8,13 +8,13 @@ O livro é projetado para desenvolvedores que desejam aprofundar seus conhecimen
 
 ## Sumário
 
-### Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
 ## Contato
-Se você tiver alguma dúvida, entre em contato via email: **_leonamuirley01@gmail.com_**
+Se você tiver alguma dúvida, entre em contato via email: **_leonamuirley01@gmail.com_**  
 Instagram: [instagram.com/leonamcassemiro](Instagram).
 
 Espero que essas resoluções sejam úteis para consolidar seu aprendizado em Python. Fique à vontade para explorar cada exercício e contribuir para melhorias nas soluções! Se tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Divirta-se programando em Python! 🐍✨
+
+### Licença
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
