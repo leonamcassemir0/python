@@ -7,6 +7,7 @@ Bem-vindo ao repositório das minhas resoluções para o livro "Python para Dese
 O livro é projetado para desenvolvedores que desejam aprofundar seus conhecimentos em Python, oferecendo uma abordagem prática e exemplos que ajudam na compreensão dos conceitos. Ao longo do livro, exercícios desafiadores são propostos para consolidar o aprendizado e aprimorar as habilidades de programação em Python.
 
 ## Sumário
+[Parte 1](https://github.com/leonamcassemir0/python/tree/main/livro%20python%20para%20desenvolvedores/parte%201)
 
 ## Contato
 Se você tiver alguma dúvida, entre em contato via email: **_leonamuirley01@gmail.com_**  
