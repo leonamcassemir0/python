@@ -1,5 +1,5 @@
 # Descrição
-Bem-vindo ao repositório Python! Este repositório contém informações e recursos essenciais para começar a trabalhar com a linguagem de programação Python.
+Bem-vindo ao repositório Python! Este repositório contém exercícios e projetos que estou criando em pyton!
 
 # Sobre Python
 Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos e de propósito geral. Ela é conhecida por sua sintaxe simples e legibilidade, tornando-a uma escolha popular para desenvolvedores iniciantes e experientes.
