@@ -5,9 +5,9 @@ Bem-vindo ao repositório Python! Este repositório contém exercícios e projet
 Python é uma linguagem de programação de alto nível, interpretada, orientada a objetos e de propósito geral. Ela é conhecida por sua sintaxe simples e legibilidade, tornando-a uma escolha popular para desenvolvedores iniciantes e experientes.
 
 # Recursos Principais
-**Legibilidade:** O código Python é conhecido por sua clareza e simplicidade, facilitando a leitura e manutenção.
-**Comunidade Ativa:** A comunidade Python é vasta e ativa, proporcionando suporte e recursos constantes.
-**Biblioteca Padrão Abundante:** A biblioteca padrão do Python inclui módulos para uma ampla gama de tarefas, tornando-a poderosa e versátil.
+**Legibilidade:** O código Python é conhecido por sua clareza e simplicidade, facilitando a leitura e manutenção.  
+**Comunidade Ativa:** A comunidade Python é vasta e ativa, proporcionando suporte e recursos constantes.  
+**Biblioteca Padrão Abundante:** A biblioteca padrão do Python inclui módulos para uma ampla gama de tarefas, tornando-a poderosa e versátil.  
 **Multiplataforma:** Python é compatível com diversos sistemas operacionais, incluindo Windows, macOS e Linux.
 
 # Documentação
