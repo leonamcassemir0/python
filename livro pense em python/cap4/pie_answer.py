@@ -3,7 +3,8 @@ import turtle
 
 
 def draw_pie(t, n, r):
-    """Draws a pie, then moves into position to the right.
+    """
+    Draws a pie, then moves into position to the right.
 
     t: Turtle
     n: number of segments
@@ -16,7 +17,8 @@ def draw_pie(t, n, r):
 
 
 def polypie(t, n, r):
-    """Draws a pie divided into radial segments.
+    """
+    Draws a pie divided into radial segments.
 
     t: Turtle
     n: number of segments
@@ -29,7 +31,8 @@ def polypie(t, n, r):
 
 
 def isosceles(t, r, angle):
-    """Draws an icosceles triangle.
+    """
+    Draws an icosceles triangle.
 
     The turtle starts and ends at the peak, facing the middle of the base.
 
