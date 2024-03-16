@@ -1,5 +1,3 @@
-def favorite_book(title):
-    print('Um dos meus livros favoritos e ' + title)
-
-
-favorite_book('Admiravel mundo novo')
+# from modulo import favorite_book as fb
+import modulo as md
+md.favorite_book('Admiravel mundo novo')
